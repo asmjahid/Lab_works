@@ -1,0 +1,24 @@
+[DEVICE]
+Name=P16F873
+Clock=20000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[FILES]
+Count=1
+[HEADERS]
+Count=0
+[BINARIES]
+Count=0
+[OTHER_FILES]
+Count=0
+[OPENED_FILES]
+Count=1
+File0=E:\rahul_CSE(June '12) - [1202210200367]\rahul_5th Sem (C5) [1202210200367]\Microcontroller Lab\report_2\7_seg.c
+[SEARCH_PATH]
+Count=0
+[HEADER_PATH]
+Count=0
+[ACTIVE_TAB]
+Value=7_seg.c
